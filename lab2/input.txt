@@ -1,0 +1,6 @@
+5
+Victor 2020123456 CS
+Juliett 2019999999 Philosophy
+Oscar 2016098766 Software
+Sierra 2018123456 CS
+Romeo 2017987654 Physics
